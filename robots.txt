@@ -1,0 +1,7 @@
+User-agent: *
+Sitemap: http://www.gezere.com/sitemap.xml
+
+Disallow: /css/
+Disallow: /font/
+Disallow: /js/
+Disallow: /img/
